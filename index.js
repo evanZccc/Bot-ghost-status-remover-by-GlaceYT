@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Watching Inazuma Eleven Cheats Server"];
 
 
 let currentIndex = 0;
